@@ -1,4 +1,4 @@
-Olá Meu nome é Marcos Lucas Vieira (Anâo)
+Olá Meu nome é Marcos Lucas Vieira (Anão)
 
 - ✈ Atualmente estou trabalhando  na força aerea Brasileira.
 - 📖 Atualmente estou estudando JavaScript, TypeScript e React
