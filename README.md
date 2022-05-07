@@ -1,6 +1,6 @@
 Olá Meu nome é Marcos Lucas Vieira (Anão)
 
-- ✈ Atualmente estou trabalhando  na força aerea Brasileira.
+- ✈ Atualmente estou trabalhando  na Força Aérea Brasileira.
 - 📖 Atualmente estou estudando JavaScript, TypeScript e React
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Eu tenho 1,78 de altura e me chamam de Anão.
