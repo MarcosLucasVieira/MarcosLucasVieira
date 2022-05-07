@@ -8,7 +8,7 @@ Olá Meu nome é Marcos Lucas Vieira (Anão)
   <a href="https://github.com/MarcosLucasVieira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosLucasVieira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <a href = "https://github.com/MarcosLucasVieira/github-readme-stats%22%3E"/>
-  <img align = height="180em"  width="435" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosLucasVieira&langs_count=7&theme=midnight-purple&show_icons=true&include_all_commits=true%22/%3E">
+  <img align = height="200em"  width="435" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosLucasVieira&langs_count=7&theme=midnight-purple&show_icons=true&include_all_commits=true%22/%3E">
   </a>
   </div>
   
