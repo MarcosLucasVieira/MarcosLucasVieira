@@ -16,7 +16,7 @@ Olá Meu nome é Marcos Lucas Vieira (Anâo)
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
+  <img align="right"  height="200" width="200" src="https://i.picasion.com/pic92/c623e84bbe7f04ebf4192e096e3fbc0d.gif">
   </div>
 
   
