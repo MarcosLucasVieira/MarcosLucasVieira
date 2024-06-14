@@ -1,11 +1,15 @@
 <p align="left">Olá mundo! tudo bem? Me chamo Marcos, Sou desenvolvedor focado nas linguagens Java e JS!</p>
 
 ###
+<p align="left">
+  <img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500 alt="Imagem">
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosLucasVieira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=MarcosLucasVieira&locale=pt-br&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
 
 ###
 
